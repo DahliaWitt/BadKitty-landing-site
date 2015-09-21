@@ -1,0 +1,5 @@
+env 'http://datatables.org/alltables.env';
+set oauth_consumer_key = "X8R94fLzlJyrvusZiRrYwAFf2" on twitter;
+set oauth_consumer_secret = "CPwTi2ZIvDctt6NUPEb23SmQut7G7K6A75lvV7qBkIX2Psk9dZ" on twitter;
+set oauth_token = "3131256682-uF5JmG2M5EAY9uTlDdRQ1sZnPg8eondR4V4s4pa" on twitter;
+set oauth_token_secret = "Nv4tLA2R3E9sbrrNIZKrVIMsXdMB6P5XeF27zDscQAHms" on twitter;
